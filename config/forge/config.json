@@ -4,6 +4,7 @@
     "ui_tab_order": [
         "Txt2img",
         "Img2img",
+        "PNG Info",
         "Extras",
         "Image Info",
         "HUB",
@@ -11,7 +12,6 @@
     ],
     "hidden_tabs": [
         "Spaces",
-        "PNG Info",
         "Checkpoint Merger"
     ]
 }
