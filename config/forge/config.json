@@ -1,6 +1,6 @@
 {
     "gradio_theme": "NoCrypt/miku",
-    "samples_filename_pattern": "[datetime<%M%S>]",
+    "samples_filename_pattern": "[datetime]-[seed]",
     "ui_tab_order": [
         "Txt2img",
         "Img2img",
